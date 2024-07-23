@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Mustaqeem</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript, React, redux**
+- 🌱 My experties **JavaScript, NodeJS, express, MongoDB**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB**
 
-- 📫 How to reach me **mustaqeem07k@gmail.com**
+- 📫 How to reach me **mustaqeemcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
