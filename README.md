@@ -3,7 +3,7 @@
 
 - 🌱 My experties **JavaScript, NodeJS, express, MongoDB**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React, Node.js, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Node.js, Express, MongoDB, React**
 
 - 📫 How to reach me **mustaqeemcode@gmail.com**
 
